@@ -6,7 +6,7 @@ h2 {
 
 /* Cover Section */
 .cover-section {
-    background-image: url('../assetphotos/bg.jpg');
+    background-image: url('../assets/photos/bg.jpg');
     background-size: cover;
     height: 100vh;
     position: relative;
